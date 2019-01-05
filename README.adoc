@@ -1,2 +1,5 @@
 # ComputerGraphics
 Digital graphics and all the colorful stuff which we see and dont appreciate on computer screen
+
+## run
+g++ -o ppmfile.out ppmfile.cpp && ./ppmfile.out >> image.ppm
